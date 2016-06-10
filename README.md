@@ -1,6 +1,8 @@
 # DemoSKInfiniteScroll
 SKInfiniteScroll is a helper class enable you to scroll infinitely using images with parallax effect.
 
+![Demo Gif](https://dl.dropboxusercontent.com/u/92255522/Xtra/Infinite%20scroll/mov.gif)
+
 - Support all the four direction
 - You can manage speed 
 - Infinite scroll without jurk
